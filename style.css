@@ -44,17 +44,17 @@ button:hover{
 .row{
     margin: 8px 0;
   }
-.row{
+.row {
     width: 280px;
     font-size: 20px;
-      margin-left: 38vw;
-      padding: 10px 0px;
-      border: 2px solid black;
-      border-radius: 5px;
-      transition: all 0.2s ease;
-  }
+    margin: 8px auto; /* Change margin to auto */
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+    transition: all 0.2s ease;
+}
 
-.row:hover{
+.row:hover {
     box-shadow: 3px 0px 8px;
 }
 
